@@ -10,8 +10,6 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
 	"presets" : {"url": "", "username": ""},
-		"dev_debug": false,
-		"notifications_enabled": true,	
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
     "siteurl": "",
